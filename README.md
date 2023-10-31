@@ -13,4 +13,8 @@ The CIFAR-10 dataset, on the other hand, is a popular benchmark dataset for imag
 By applying the ResNet-50 model to the CIFAR-10 dataset, we aim to leverage the power of transfer learning. The pre-trained ResNet-50 model, which has learned rich image features from a large dataset, can be fine-tuned to perform the specific task of classifying CIFAR-10 images. This approach can potentially yield state-of-the-art results on the CIFAR-10 dataset, thanks to the generalization capabilities of the ResNet-50 architecture.
 
 Overall, this repository provides an example of how to harness the capabilities of ResNet-50 for image classification tasks using the CIFAR-10 dataset as a testbed.
+
+![renet50 archi](https://github.com/ishreyaa07/Resnet50_TransferLearning/assets/98052441/8f3be961-673b-43c9-b9c9-a444a29ae014)
+RESNET50 ARCHITECTURE
+
  
